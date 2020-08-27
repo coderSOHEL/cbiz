@@ -1,0 +1,73 @@
+* {}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1170px;
+    margin: auto;
+}
+
+.fb {
+    width: 300px;
+    float: left;
+}
+
+.danepas {
+    width: 600px;
+    float: right;
+}
+
+.emailbox {}
+
+.emailbox {
+    width: 200px;
+    float: left;
+}
+
+.passbox {
+    width: 200px;
+    float: left;
+}
+
+.inputb {
+    width: 200px;
+    float: right;
+}
+
+.topHeader {
+    background: #9c9292;
+    overflow: hidden;
+}
+
+.fb span {
+    padding: 12px 79px;
+    font-size: 34px;
+    display: grid;
+    color: white;
+    font-family: monospace;
+}
+
+.emailbox p {
+    color: white;
+}
+
+.emailbox span {
+    color: white;
+}
+.passbox p {
+    color: white;
+}
+
+.passbox a {
+    text-decoration: none;
+    color: white;
+}
+
+input[type="submit"] {
+    padding: 0px 19px;
+    margin-top: 16px;
+    background: white;
+}
